@@ -10,7 +10,8 @@ public class Test {
         //验证码保存地址
         String downAddress = "D:\\picture\\";
         //验证码下载地址
-        String downURL = "http://47.104.134.50:8445/Internet/imgcode/dd925e723c74435abd2050072a7fbb41.jpg";
+
+        String downURL = "http://localhost:8888/Internet/imgcode/dd925e723c74435abd2050072a7fbb41.jpg";
 
         OrcS aa = new OrcS();
 
