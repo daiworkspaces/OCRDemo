@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OCRDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OCRDemo_jar</output-path>
+    <root id="archive" name="OCRDemo.jar">
+      <element id="module-output" name="OCRDemo" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/asprise/ocr/java-ocr-api/15.3.0.1/java-ocr-api-15.3.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
